@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **React , Angular,Django**
+- 🌱 I’m currently learning ** Python , Javascript**
 
 - 📫 How to reach me **durgesh10gupta@gmail.com**
 
